@@ -7,7 +7,7 @@ Linear Regression: Linear regression is a linear approach to modelling the re
 
 
 
-SVM implementation
+SVM implementation:
 Import Libraries
 Import Data set
 Split the training and testing data of  SVM.
